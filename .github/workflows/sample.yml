@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - name: Print Message
-        run: echo "New Push detected on main branch"
+        run: echo "New Push detected on main branch
